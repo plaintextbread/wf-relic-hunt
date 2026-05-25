@@ -1,0 +1,1293 @@
+{
+  "fetched_at": "2026-04-25T22:14:13.034419+00:00",
+  "prices": {
+    "akbronco_prime_blueprint": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.25,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "akbronco_prime_link": {
+      "sell_price": 2.4,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 18.75,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "alternox_prime_barrel": {
+      "sell_price": 2.7,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 16.67,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "alternox_prime_blueprint": {
+      "sell_price": 9.0,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 11.11,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "alternox_prime_receiver": {
+      "sell_price": 3.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.95,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "alternox_prime_stock": {
+      "sell_price": 8.3,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 12.05,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_c11_relic": {
+      "sell_price": 2.7,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_d6_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "axi_s20_relic": {
+      "sell_price": 4.6,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_s8_relic": {
+      "sell_price": 6.2,
+      "buy_price": 4.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_t13_relic": {
+      "sell_price": 1.8,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "axi_v10_relic": {
+      "sell_price": 7.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "axi_v14_relic": {
+      "sell_price": 8.0,
+      "buy_price": 6.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_y1_relic": {
+      "sell_price": 2.9,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "axi_y3_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "braton_prime_barrel": {
+      "sell_price": 3.5,
+      "buy_price": null,
+      "ducat_plat_ratio": 4.29,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "braton_prime_blueprint": {
+      "sell_price": 1.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 19.23,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "braton_prime_receiver": {
+      "sell_price": 3.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 14.52,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "braton_prime_stock": {
+      "sell_price": 1.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 20.83,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "bronco_prime_barrel": {
+      "sell_price": 2.1,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 21.43,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "bronco_prime_blueprint": {
+      "sell_price": 2.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.52,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "bronco_prime_receiver": {
+      "sell_price": 2.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.14,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "burston_prime_barrel": {
+      "sell_price": 4.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.98,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "burston_prime_blueprint": {
+      "sell_price": 3.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 4.55,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "burston_prime_receiver": {
+      "sell_price": 3.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 4.84,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "burston_prime_stock": {
+      "sell_price": 2.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.82,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "caliban_prime_blueprint": {
+      "sell_price": 2.5,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 18.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "caliban_prime_chassis_blueprint": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.5,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "caliban_prime_neuroptics_blueprint": {
+      "sell_price": 10.4,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 9.62,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "caliban_prime_systems_blueprint": {
+      "sell_price": 20.2,
+      "buy_price": 10.0,
+      "ducat_plat_ratio": 4.95,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "cedo_prime_barrel": {
+      "sell_price": 4.4,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 10.23,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "cedo_prime_blueprint": {
+      "sell_price": 7.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 13.89,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "cedo_prime_receiver": {
+      "sell_price": 2.5,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 18.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "cedo_prime_stock": {
+      "sell_price": 3.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.95,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "cernos_prime_blueprint": {
+      "sell_price": 4.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.71,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "cernos_prime_grip": {
+      "sell_price": 8.4,
+      "buy_price": 4.0,
+      "ducat_plat_ratio": 1.79,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "cernos_prime_lower_limb": {
+      "sell_price": 19.5,
+      "buy_price": 15.0,
+      "ducat_plat_ratio": 5.13,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "cernos_prime_string": {
+      "sell_price": 6.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.73,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "cernos_prime_upper_limb": {
+      "sell_price": 7.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 1.95,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "daikyu_prime_blueprint": {
+      "sell_price": 1.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.71,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "daikyu_prime_grip": {
+      "sell_price": 7.1,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 14.08,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "daikyu_prime_lower_limb": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 18.75,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "daikyu_prime_string": {
+      "sell_price": 3.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 5.0,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "daikyu_prime_upper_limb": {
+      "sell_price": 2.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 16.67,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "dual_zoren_prime_blade": {
+      "sell_price": 10.2,
+      "buy_price": 6.0,
+      "ducat_plat_ratio": 9.8,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "dual_zoren_prime_blueprint": {
+      "sell_price": 2.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 19.57,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "dual_zoren_prime_handle": {
+      "sell_price": 2.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.14,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "epitaph_prime_barrel": {
+      "sell_price": 2.2,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 20.45,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "epitaph_prime_blueprint": {
+      "sell_price": 2.6,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 5.77,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "epitaph_prime_receiver": {
+      "sell_price": 7.5,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 13.33,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "fang_prime_blade": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.25,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "fang_prime_blueprint": {
+      "sell_price": 2.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.52,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "fang_prime_handle": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 12.5,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "gyre_prime_blueprint": {
+      "sell_price": 4.6,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 9.78,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "gyre_prime_chassis_blueprint": {
+      "sell_price": 8.8,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 5.11,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "gyre_prime_neuroptics_blueprint": {
+      "sell_price": 10.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.0,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "gyre_prime_systems_blueprint": {
+      "sell_price": 3.9,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.85,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "hikou_prime_blueprint": {
+      "sell_price": 4.9,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.06,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "hikou_prime_pouch": {
+      "sell_price": 11.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 1.36,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "hikou_prime_stars": {
+      "sell_price": 9.8,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 1.53,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "kestrel_prime_blade": {
+      "sell_price": 4.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.49,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "kestrel_prime_blueprint": {
+      "sell_price": 3.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 14.06,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "kestrel_prime_grip": {
+      "sell_price": 9.1,
+      "buy_price": 6.0,
+      "ducat_plat_ratio": 10.99,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "kompressa_prime_barrel": {
+      "sell_price": 8.3,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 12.05,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "kompressa_prime_blueprint": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.25,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "kompressa_prime_reciever": {
+      "sell_price": 3.6,
+      "buy_price": null,
+      "ducat_plat_ratio": 12.5,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lavos_prime_blueprint": {
+      "sell_price": 2.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 16.67,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lavos_prime_chassis_blueprint": {
+      "sell_price": 1.9,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.89,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lavos_prime_neuroptics_blueprint": {
+      "sell_price": 4.2,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 10.71,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "lavos_prime_systems_blueprint": {
+      "sell_price": 9.5,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.53,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lex_prime_barrel": {
+      "sell_price": 2.7,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 5.56,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "lex_prime_blueprint": {
+      "sell_price": 2.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 9.26,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lex_prime_receiver": {
+      "sell_price": 2.9,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 5.17,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "lith_c14_relic": {
+      "sell_price": 4.6,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lith_c7_relic": {
+      "sell_price": 5.0,
+      "buy_price": 3.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "lith_e2_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lith_g14_relic": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lith_k12_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lith_n18_relic": {
+      "sell_price": 1.4,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "lith_n19_relic": {
+      "sell_price": 3.7,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "lith_q2_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_a10_relic": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_a9_relic": {
+      "sell_price": 1.4,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_d8_relic": {
+      "sell_price": 4.3,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "meso_e7_relic": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_l4_relic": {
+      "sell_price": 2.1,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_n11_relic": {
+      "sell_price": 8.2,
+      "buy_price": 6.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "meso_v13_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_v15_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "meso_x1_relic": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "nautilus_prime_blueprint": {
+      "sell_price": 9.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 10.75,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "nautilus_prime_carapace": {
+      "sell_price": 4.2,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.57,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "nautilus_prime_cerebrum": {
+      "sell_price": 10.0,
+      "buy_price": 3.0,
+      "ducat_plat_ratio": 10.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "nautilus_prime_systems": {
+      "sell_price": 2.2,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 20.45,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "neo_c7_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "neo_k9_relic": {
+      "sell_price": 1.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "neo_n24_relic": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "neo_p10_relic": {
+      "sell_price": 4.7,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "neo_s20_relic": {
+      "sell_price": 6.0,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "neo_t10_relic": {
+      "sell_price": 3.4,
+      "buy_price": null,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "neo_v11_relic": {
+      "sell_price": 4.3,
+      "buy_price": 3.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "neo_v9_relic": {
+      "sell_price": 8.0,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": null,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "nyx_prime_blueprint": {
+      "sell_price": 9.8,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 1.53,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "nyx_prime_chassis_blueprint": {
+      "sell_price": 12.4,
+      "buy_price": 4.0,
+      "ducat_plat_ratio": 5.24,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "nyx_prime_neuroptics_blueprint": {
+      "sell_price": 39.4,
+      "buy_price": 30.0,
+      "ducat_plat_ratio": 2.54,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "nyx_prime_systems_blueprint": {
+      "sell_price": 10.1,
+      "buy_price": 6.0,
+      "ducat_plat_ratio": 4.46,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "orthos_prime_blade": {
+      "sell_price": 3.4,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 13.24,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "orthos_prime_blueprint": {
+      "sell_price": 3.0,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 15.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "orthos_prime_handle": {
+      "sell_price": 2.6,
+      "buy_price": null,
+      "ducat_plat_ratio": 5.77,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "paris_prime_blueprint": {
+      "sell_price": 2.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 5.36,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "paris_prime_grip": {
+      "sell_price": 2.5,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 18.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "paris_prime_lower_limb": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.5,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "paris_prime_string": {
+      "sell_price": 2.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 5.56,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "paris_prime_upper_limb": {
+      "sell_price": 2.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 12.5,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "perigale_prime_barrel": {
+      "sell_price": 18.6,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 5.38,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "perigale_prime_blueprint": {
+      "sell_price": 4.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 3.12,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "perigale_prime_receiver": {
+      "sell_price": 5.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 8.33,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "perigale_prime_stock": {
+      "sell_price": 12.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 1.17,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "quassus_prime_blade": {
+      "sell_price": 8.0,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 12.5,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "quassus_prime_blueprint": {
+      "sell_price": 2.3,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 19.57,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "quassus_prime_handle": {
+      "sell_price": 3.5,
+      "buy_price": null,
+      "ducat_plat_ratio": 4.29,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "sarofang_prime_blade": {
+      "sell_price": 19.7,
+      "buy_price": 18.0,
+      "ducat_plat_ratio": 5.08,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "sarofang_prime_blueprint": {
+      "sell_price": 5.5,
+      "buy_price": 3.0,
+      "ducat_plat_ratio": 8.18,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "sarofang_prime_handle": {
+      "sell_price": 7.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 2.03,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "scindo_prime_blade": {
+      "sell_price": 16.2,
+      "buy_price": 15.0,
+      "ducat_plat_ratio": 6.17,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "scindo_prime_blueprint": {
+      "sell_price": 4.7,
+      "buy_price": null,
+      "ducat_plat_ratio": 9.57,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "scindo_prime_handle": {
+      "sell_price": 9.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 2.66,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "sevagoth_prime_blueprint": {
+      "sell_price": 3.6,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 12.5,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "sevagoth_prime_chassis_blueprint": {
+      "sell_price": 17.3,
+      "buy_price": 15.0,
+      "ducat_plat_ratio": 5.78,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "sevagoth_prime_neuroptics_blueprint": {
+      "sell_price": 1.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 8.33,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "sevagoth_prime_systems_blueprint": {
+      "sell_price": 1.9,
+      "buy_price": null,
+      "ducat_plat_ratio": 7.89,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "trumna_prime_barrel": {
+      "sell_price": 9.5,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 10.53,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "trumna_prime_blueprint": {
+      "sell_price": 1.1,
+      "buy_price": null,
+      "ducat_plat_ratio": 13.64,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "trumna_prime_receiver": {
+      "sell_price": 8.5,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 11.76,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "trumna_prime_stock": {
+      "sell_price": 2.9,
+      "buy_price": null,
+      "ducat_plat_ratio": 15.52,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "vadarya_prime_barrel": {
+      "sell_price": 3.8,
+      "buy_price": null,
+      "ducat_plat_ratio": 11.84,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "vadarya_prime_blueprint": {
+      "sell_price": 7.6,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 13.16,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "vadarya_prime_receiver": {
+      "sell_price": 2.4,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 18.75,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "vadarya_prime_stock": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.25,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "valkyr_prime_blueprint": {
+      "sell_price": 4.5,
+      "buy_price": 4.0,
+      "ducat_plat_ratio": 3.33,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "valkyr_prime_chassis_blueprint": {
+      "sell_price": 40.1,
+      "buy_price": 35.0,
+      "ducat_plat_ratio": 2.49,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "valkyr_prime_neuroptics_blueprint": {
+      "sell_price": 9.5,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 4.74,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "valkyr_prime_systems_blueprint": {
+      "sell_price": 15.0,
+      "buy_price": 10.0,
+      "ducat_plat_ratio": 4.33,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "venato_prime_blade": {
+      "sell_price": 10.0,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 10.0,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "venato_prime_blueprint": {
+      "sell_price": 2.0,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 22.5,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "venato_prime_handle": {
+      "sell_price": 3.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 4.41,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "venka_prime_blades": {
+      "sell_price": 6.5,
+      "buy_price": 2.0,
+      "ducat_plat_ratio": 2.31,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "venka_prime_blueprint": {
+      "sell_price": 4.6,
+      "buy_price": 3.0,
+      "ducat_plat_ratio": 9.78,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "venka_prime_gauntlet": {
+      "sell_price": 25.8,
+      "buy_price": 16.0,
+      "ducat_plat_ratio": 3.88,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "voruna_prime_blueprint": {
+      "sell_price": 33.2,
+      "buy_price": 30.0,
+      "ducat_plat_ratio": 3.01,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "voruna_prime_chassis_blueprint": {
+      "sell_price": 7.4,
+      "buy_price": 7.0,
+      "ducat_plat_ratio": 6.08,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "voruna_prime_neuroptics_blueprint": {
+      "sell_price": 8.0,
+      "buy_price": null,
+      "ducat_plat_ratio": 5.62,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "voruna_prime_systems_blueprint": {
+      "sell_price": 19.8,
+      "buy_price": 20.0,
+      "ducat_plat_ratio": 5.05,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "xaku_prime_blueprint": {
+      "sell_price": 9.9,
+      "buy_price": 9.0,
+      "ducat_plat_ratio": 10.1,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "xaku_prime_chassis_blueprint": {
+      "sell_price": 2.2,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 20.45,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "xaku_prime_neuroptics_blueprint": {
+      "sell_price": 2.4,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.25,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "xaku_prime_systems_blueprint": {
+      "sell_price": 4.9,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 9.18,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "yareli_prime_blueprint": {
+      "sell_price": 2.8,
+      "buy_price": 1.0,
+      "ducat_plat_ratio": 16.07,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "yareli_prime_chassis_blueprint": {
+      "sell_price": 2.3,
+      "buy_price": null,
+      "ducat_plat_ratio": 6.52,
+      "sell_status": "ok",
+      "buy_status": "no_data",
+      "error_message": null
+    },
+    "yareli_prime_neuroptics_blueprint": {
+      "sell_price": 11.2,
+      "buy_price": 10.0,
+      "ducat_plat_ratio": 8.93,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    },
+    "yareli_prime_systems_blueprint": {
+      "sell_price": 19.4,
+      "buy_price": 5.0,
+      "ducat_plat_ratio": 5.15,
+      "sell_status": "ok",
+      "buy_status": "ok",
+      "error_message": null
+    }
+  }
+}
